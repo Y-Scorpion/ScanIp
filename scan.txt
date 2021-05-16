@@ -1,0 +1,6 @@
+url:http://www.baidu.com :status:200 
+url:http://www.sogou.com :status:200 
+url:http://www.qq.com :status:200 
+url:http://74.102.208.12:8080 :status:200 
+url:http://80.12.84.233:8080 :status:200 
+url:http://210.209.223.173:8080 :status:200 
